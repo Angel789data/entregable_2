@@ -1,3 +1,4 @@
+para clonar y usar el repositorio
 1 >> git clone https://github.com/Angel789data/entregable_2.git
 2 >> git git push --set-upstream origin "nombre del usuario que usan"
 luego de esto ya pueden hacer commit y push sin problemas:
