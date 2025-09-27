@@ -1,0 +1,8 @@
+1 >> git clone https://github.com/Angel789data/entregable_2.git
+2 >> git git push --set-upstream origin "nombre del usuario que usan"
+luego de esto ya pueden hacer commit y push sin problemas:
+ejemplo :
+>> git add entregable.ipynb
+>> git commit -m "escriben lo que quieren actualizar con su commit"
+>> git push
+3 
